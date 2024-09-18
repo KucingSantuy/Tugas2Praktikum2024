@@ -11,15 +11,13 @@ JELASKAN PROSES PASSING DATA DARI FORM MENUJU TAMPILAN DENGAN FILE `README.md`
 Buat tampilan semenarik mungkin untuk dilihat.
 
 
-Nama : ___
+Nama : Muhammad Rafi Attariq
 
-NIM : ___
+NIM : H1D022056
 
-Shift Baru: ___
+Shift Baru: D
 
 # Penjelasan Proses Passing Data dari Form ke Tampilan
-
-Dalam aplikasi Flutter ini, kita melakukan proses passing data dari form input (`FormData`) ke tampilan hasil (`TampilData`). Berikut adalah penjelasan langkah-langkahnya:
 
 1. Pengumpulan Data di FormData
     - Di dalam class `FormDataState`, kita memiliki tiga `TextEditingController`: `_namaController`, `_nimController`, dan `_tahunController`.
